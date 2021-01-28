@@ -1,7 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
   package="com.digitalwalletapp">
-
+    
     <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Required -->
+    <uses-permission android:name="android.permission.CAMERA" /> 
+    <!-- Include this only if you are planning to use the microphone for video recording -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/> 
 
     <application
       android:name=".MainApplication"

@@ -358,7 +358,7 @@ const SignUp = ({navigation}) => {
     behavior={Platform.OS === "ios" ? "padding": null}
     style={{flex:1}}
     >
-      <StatusBar barStyle="light-content" backgroundColor={COLORS.lime}/>
+      
       <LinearGradient
       colors={[COLORS.lime,COLORS.emerald]}
       style={{flex:1}}
