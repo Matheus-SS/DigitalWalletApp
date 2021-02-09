@@ -2,10 +2,10 @@
   <img src="screens/wallie-logo.png"/>
 </p>
 
-![Badge](https://img.shields.io/github/issues/Matheus-SS/DigitalWalletWeb)
-![Badge](https://img.shields.io/github/forks/Matheus-SS/DigitalWalletWeb)
-![Badge](https://img.shields.io/github/stars/Matheus-SS/DigitalWalletWeb)
-![GitHub license](https://img.shields.io/github/license/Matheus-SS/DigitalWalletWeb)
+![Badge](https://img.shields.io/github/issues/Matheus-SS/DigitalWalletApp)
+![Badge](https://img.shields.io/github/forks/Matheus-SS/DigitalWalletApp)
+![Badge](https://img.shields.io/github/stars/Matheus-SS/DigitalWalletApp)
+![GitHub license](https://img.shields.io/github/license/Matheus-SS/DigitalWalletApp)
 
 # Wallie App
 
@@ -29,4 +29,4 @@ git clone https://github.com/Matheus-SS/DigitalWalletWeb.git
 
 Instale todas a dependencias na pasta raiz chamada, digitalwalletweb, digite `yarn start` que irá abrir a aplicação.
 
-> > Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Matheus-SS/DigitalWalletWeb/blob/master/LICENSE) para mais detalhes.
+> > Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Matheus-SS/DigitalWalletApp/blob/master/LICENSE) para mais detalhes.
