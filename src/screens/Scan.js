@@ -81,8 +81,8 @@ const Scan = ({navigation}) => {
                 resizeMode="stretch"
                 style={{
                   marginTop: "-55%",
-                  width:300,
-                  height:300
+                  width:250,
+                  height:200
                 }}
             />
         </View>
@@ -180,7 +180,7 @@ const Scan = ({navigation}) => {
   }
 
   function onBarCodeRead(result) {
-    console.log(result.data)
+      console.log(result.data)
   }
 
   return (
