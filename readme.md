@@ -24,9 +24,9 @@ Wallie é um app de gerenciamento e pagamento de despesas.
 Caso deseje rodar na sua máquina, digite:
 
 ```
-git clone https://github.com/Matheus-SS/DigitalWalletWeb.git
+git clone https://github.com/Matheus-SS/DigitalWalletApp.git
 ```
 
-Instale todas a dependencias na pasta raiz chamada, digitalwalletweb, digite `yarn start` que irá abrir a aplicação.
+Instale todas a dependencias na pasta raiz chamada, digitalwalletapp, digite `yarn start` que irá abrir a aplicação.
 
 > > Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Matheus-SS/DigitalWalletApp/blob/master/LICENSE) para mais detalhes.
